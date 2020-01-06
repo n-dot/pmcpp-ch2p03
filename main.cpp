@@ -11,7 +11,12 @@ void ignoreUnused(T&&...) { }
  
  
  
- 
+ int
+ char
+ bool
+ float
+ double
+ void
  
  
  
